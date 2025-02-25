@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user@example.com",
+      "password": "password123",
+      "token": "fake-jwt-token"
+    },
+    {
+      "id": "2",
+      "email": "user2@example.com",
+      "password": "password123",
+      "token": "fake-jwt-token"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "3f89",
+      "title": "jnxznc/nczklnjbckznc",
+      "description": "djn.lsnxclsnc",
+      "status": "Pending"
+    },
+    {
+      "id": "3f8a",
+      "title": "sdfbksdjcjlsbclknc",
+      "description": ",jncdljnclknc",
+      "status": "Pending"
+    }
+  ]
+}
